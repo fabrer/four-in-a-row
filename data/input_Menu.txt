@@ -1,0 +1,11 @@
+data/bg_menu.bmp
+data/jvsj.bmp
+350 200
+data/jvsc1.bmp
+350 255
+data/jvsc2.bmp
+350 310
+data/jvsc3.bmp
+350 365
+data/quitter.bmp
+250 500
